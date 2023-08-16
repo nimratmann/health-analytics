@@ -1,2 +1,5 @@
 # health-analytics
 This assignment serves as a primer for HHA 507 and HHA 507.
+
+## Python file
+I have created a health_analysis.py file in which I first imported "pandas" and "numpy" libraries, creating the following variables: a number, a string, a list and dictionary with a nested dictionary. I defined a function called "calculate_health_score" that determines a person's health status based on their weight and height using the BMI formula. It categorizes the health status as "Underweight," "Normal weight," "Overweight," or "Obese" using an if/else statement. I used the values of variables and run the health analysis function with example weight (kg) and height (cm) data to determine a patient's health status. It then displays an output with the variables' values alond with the calculated health status.
